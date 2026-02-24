@@ -12,7 +12,7 @@
     <PackageTags>dmnsn</PackageTags>
     <Product>Correlation ID Middleware for ASP.NET Core</Product>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <Version>10.0.1-dev.1</Version>
+    <Version>10.0.1</Version>
     <RepositoryUrl>https://github.com/DevilDogTG/CorrelationId.Middleware</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
