@@ -1,7 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFramework>net8.0</TargetFramework>
+		<TargetFramework>net10.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<Authors>DevilDogTG</Authors>
@@ -13,7 +13,7 @@
 		<PackageTags>dmnsn</PackageTags>
 		<Product>Correlation ID Middleware for ASP.NET Core</Product>
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
-		<Version>8.0.3</Version>
+		<Version>10.0.0</Version>
 		<RepositoryUrl>https://github.com/DevilDogTG/CorrelationId.Middleware</RepositoryUrl>
 	</PropertyGroup>
 
@@ -31,7 +31,6 @@
 		  <Pack>True</Pack>
 		  <PackagePath>\</PackagePath>
 		</None>
-		<PackageReference Include="Microsoft.Extensions.Options" Version="8.0.2" />
 	</ItemGroup>
 
 </Project>
